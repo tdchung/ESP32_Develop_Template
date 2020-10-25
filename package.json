@@ -1,0 +1,31 @@
+{
+    "name": "name",
+    "version": "1.0.0",
+    "description": "Adds ...",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git:"
+    },
+    "keywords": [
+        "arduino",
+        "esp32",
+        "iot",
+        "node-red",
+        "...saunas",
+        "Smithtek"
+    ],
+    "author": 
+    {
+        "name": "tdchung",
+        "email": "tdchung.9@gmail.com",
+        "url": "https://github.com/tdchung"
+    },
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "git::/issues"
+    },
+    "homepage": "git::/#readme"
+}
